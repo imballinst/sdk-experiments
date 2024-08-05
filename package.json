@@ -1,0 +1,7 @@
+{
+  "name": "sdk-experiments",
+  "packageManager": "yarn@4.4.0",
+  "workspaces": [
+    "packages/*"
+  ]
+}

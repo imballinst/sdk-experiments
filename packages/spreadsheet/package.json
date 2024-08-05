@@ -1,0 +1,7 @@
+{
+  "name": "@experiments/spreadsheet",
+  "main": "index.ts",
+  "dependencies": {
+    "@experiments/core": "workspace:*"
+  }
+}

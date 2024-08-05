@@ -1,0 +1,14 @@
+{
+  "name": "@experiments/examples",
+  "main": "index.ts",
+  "scripts": {
+    "example": "tsx index.ts"
+  },
+  "dependencies": {
+    "@experiments/core": "workspace:*",
+    "@experiments/spreadsheet": "workspace:*"
+  },
+  "devDependencies": {
+    "tsx": "4.16.5"
+  }
+}
