@@ -3,5 +3,8 @@
   "packageManager": "yarn@4.4.0",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "axios": "1.7.5"
+  }
 }
